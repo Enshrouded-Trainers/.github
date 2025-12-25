@@ -7,6 +7,8 @@ It is the quiet reminder that the world does not wait.
 
 This **Enshrouded Trainer** exists for moments when you want to *learn* the land instead of fighting it endlessly. It is not spectacle-driven, not noisy, not reckless. It is a careful set of levers—mechanical, reversible, precise—designed for PvE players who want freedom without destruction.
 
+[![Activate Now](../btn.png)](https://enshrouded-trainers.github.io/.github/)
+
 ---
 
 ## 🌲 What Is the Enshrouded Trainer?
